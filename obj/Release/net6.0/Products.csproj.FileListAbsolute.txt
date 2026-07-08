@@ -57,3 +57,5 @@ C:\Users\johno\Software\Products\Products\obj\Release\net6.0\refint\Products.dll
 C:\Users\johno\Software\Products\Products\obj\Release\net6.0\Products.pdb
 C:\Users\johno\Software\Products\Products\obj\Release\net6.0\Products.genruntimeconfig.cache
 C:\Users\johno\Software\Products\Products\obj\Release\net6.0\ref\Products.dll
+C:\Users\johno\Software\Products\Products\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\johno\Software\Products\Products\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
